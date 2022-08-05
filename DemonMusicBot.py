@@ -58,7 +58,7 @@ def help(client, message):
                     InlineKeyboardButton('Rəsmi Kanal ✅', url='https://t.me/UlviProject'),
                     InlineKeyboardButton('Playlist 🎵', url=f'https://t.me/{Config.PLAYLIST_NAME}')
                   ],[
-                    InlineKeyboardButton('Sahib 👨🏻‍💻', url=f'T.me/{Config.BOT_OWNER}')
+                    InlineKeyboardButton('ᴏᴡɴᴇʀ🇦🇿', url=f'T.me/{Config.BOT_OWNER}')
                 ]
             ]
         )
